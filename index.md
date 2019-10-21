@@ -4,6 +4,13 @@ You can use the [editor on GitHub](https://github.com/blidung/-blidung-.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+终于想到用中文说话了。。。
+其实吧，这个网站是2019.10.14应该好了的，然而到21号才发现这个网站的URL（好尴尬呀）
+加油↖(^ω^)↗
+建个小破站（其实也算不上，毕竟是带github头的:-P买不起服务器，阿里云和华为云月租也要十几二十块啊┗( T﹏T )┛商rz）
+Σ( ° △ °|||)︴
+∑q|ﾟДﾟ|p∑(っ °Д °;)っ━((*′д｀)爻(′д｀*))━!!!!ε=ε=ε=┏(゜ロ゜;)┛...( ＿ ＿)ノ｜壁( ￣ ￣)σ…( ＿ ＿)ノ｜壁
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
