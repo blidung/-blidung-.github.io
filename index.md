@@ -222,8 +222,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <footer role="footer">
   <div class="container">
-    <p>&copy; All rights reserved. Floxi 2015</p>
-    <p>More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
+    <p>&copy; 2019 All rights reserved. blidung 版权所有，侵权必究。
   </div>
 </footer>
 
